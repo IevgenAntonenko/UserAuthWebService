@@ -1,2 +1,1 @@
-cd bin
-java -cp ".;../lib/*" main.UserAuthWebService
+java -cp "bin;lib/*" main.UserAuthWebService
