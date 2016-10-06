@@ -6,7 +6,7 @@ compares passwords and returns result to the client.
 
 ## Installation
 Application requires JRE 8.
-To start application run UserAuthWebService.bat from command line.
+To start application run **UserAuthWebService.bat** from command line.
 
 ## API Reference
 
