@@ -14,5 +14,5 @@ Main class of the program is UserAuthWebService/src/main/UserAuthWebService.java
 Client implementation is com.userauth.ws.client.UserAuthServiceClient.
 
 All commands can be called from cmd window after UserAuthWebService.bat has been run.  
-To call endpoint use command **authorize user_login user_password**.  
-To stop web service use command **stop**
+To call endpoint use command `authorize user_login user_password`  
+To stop web service use command `stop`
